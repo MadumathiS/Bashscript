@@ -11,7 +11,7 @@ Write a shell script receiving a name as argument, then replying Hello <name>.
 
 
 
-#Exercise 3 - Path to
+# Exercise 3 - Path to
 
 
 Write a shell script receiving a path as argument, depending on if it's a file or a directory, display or list its content.
@@ -19,7 +19,7 @@ Write a shell script receiving a path as argument, depending on if it's a file o
 
 
 
-#Exercise 4 - Information
+# Exercise 4 - Information
 
 Write a shell script to see the current date, time, username, and directory.
 
